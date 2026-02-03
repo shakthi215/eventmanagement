@@ -29,12 +29,6 @@ npm install
 npx expo start
 ```
 
-## Demo Video
-- Link: <ADD_VIDEO_LINK_HERE>
-
-## Repository
-- Link: <ADD_REPOSITORY_LINK_HERE>
-
 ## Notes
 - Login/Signup are custom screens (not in Figma) per task requirements.
 - Event data is persisted locally and survives app restarts.
